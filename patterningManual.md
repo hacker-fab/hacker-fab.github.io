@@ -31,6 +31,12 @@ You have 5 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 
 ----->
 
+---
+layout: page
+title: Patterning Manual
+permalink: /patterningmanual/
+---
+
 
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 5.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
