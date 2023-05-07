@@ -1,3 +1,9 @@
+---
+layout: page
+title: Patterning Manual
+permalink: /patterningmanual/
+---
+
 <!-- Copy and paste the converted output. -->
 
 <!-----
@@ -31,11 +37,7 @@ You have 5 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 
 ----->
 
----
-layout: page
-title: Patterning Manual
-permalink: /patterningmanual/
----
+
 
 
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 5.</p>
